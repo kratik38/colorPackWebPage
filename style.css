@@ -1,0 +1,68 @@
+
+nav {	
+	display:flex;
+	justify-content:center;
+	background-color: rgb(233, 231, 220);
+}
+
+body{
+	font-family: 'Inconsolata', monospace;
+	font-family: 'Kdam Thmor Pro', sans-serif;
+	margin:0px;
+}
+.nav-links{
+	display: flex;
+	justify-content: center;
+}
+li a {
+	padding: 10px;
+	color:black;
+	width:60px;
+	text-decoration: none;
+	font-weight:500;
+	
+}
+
+h1{
+	color:rgb(7, 116, 143);
+	font-size:23px;
+	font-weight: 500;
+	width:900px;
+}
+
+li a:hover{
+	color:blue;
+}
+
+li {	
+	font-size: 20px;
+	display : inline-flex;
+}
+
+
+
+.container{
+	margin-top:20rem;
+	text-align:center;
+	font-size:33px;
+}
+
+h2{
+	border-radius: 15px;
+	color :white;
+	background-color: black;
+	padding: 30px;
+	margin-inline: 580px;
+}
+
+h2 span{
+	color:rgb(62, 165, 224);
+}
+
+button
+{
+	background-color: black;
+	color:white;
+	border-radius:15px;
+	font-size:2rem;
+}
